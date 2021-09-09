@@ -1,0 +1,34 @@
+{
+    "how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
+    "info": {
+        "url_png_icon_64x64": "https://hungnhu.com/assets/img/icon64.png",
+        "url_png_logo": "https://hungnhu.com/assets/img/logo.png",
+        "location": "Hanoi, Vietnam",
+        "social": {
+            "twitter_handle": "tada_vietnam",
+            "telegram_handle": "tadapools",
+            "youtube_handle": "https://www.youtube.com/channel/UC9J88LtC7d-JpVilGwTcpVQ",
+            "github_handle": "hungba23"
+        },
+        "about": {
+            "me": "For Better World",
+            "server": "Dedicate Server(s), Dual Xeon Platform, 1Gbit backbone, 10Gbit upgrade possible, BackupServer(s), 365/24/7 monitoring. Hosted at my Home in Hanoi 100MB up/down, solar energy."
+        }
+    },
+    "my-pool-ids": {
+        "0": "0f292fcaa02b8b2f9b3c8f9fd8e0bb21abedb692a6d5058df3ef2735",
+        "1": "618ab17ec8ea7239b4ac0c826b667c599489e25524ce74841a29d510"
+    },
+    "when-satured-then-recommend": {
+        "0": "0f292fcaa02b8b2f9b3c8f9fd8e0bb21abedb692a6d5058df3ef2735",
+        "1": "618ab17ec8ea7239b4ac0c826b667c599489e25524ce74841a29d510"
+    },
+    "my-pool-ids": {
+        "0": "5a0af5c80ed8456b182c81e63fc6278a0b3e6e0189de3143730e9aa9",
+        "1": "8aab1bbdd3b6fc5586f7987fe2e81a7740fad2bc91df6ead490a4ab0"
+    },
+    "when-satured-then-recommend": {
+        "0": "5a0af5c80ed8456b182c81e63fc6278a0b3e6e0189de3143730e9aa9",
+        "1": "8aab1bbdd3b6fc5586f7987fe2e81a7740fad2bc91df6ead490a4ab0"
+    }
+}
